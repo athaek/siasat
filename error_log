@@ -1,0 +1,169 @@
+[08-Mar-2018 03:16:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 05:45:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 08:03:25 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:00:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:03:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:05:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:41:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:53:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[08-Mar-2018 10:55:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[09-Mar-2018 02:22:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[09-Mar-2018 02:22:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[09-Mar-2018 02:33:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
+[09-Mar-2018 02:36:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home2/mossmasa/public_html/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home2/mossmasa/public_html/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home2/mossmasa/public_html/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home2/mossmasa/public_html/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home2/mossmasa/public_html/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home2/mossmasa/public_html/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home2/mossmasa/public_html/application/controllers/auth.php(7): CI_Controller->__construct()
+#7 /home2/mossmasa/public_html/system/core/CodeIgniter.php(308): auth->__construct()
+#8 /home2/mossmasa/public_html/index.php(202): require_once('/home2/mossmasa...')
+#9 {main}
+  thrown in /home2/mossmasa/public_html/system/database/drivers/mysql/mysql_driver.php on line 91
